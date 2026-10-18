@@ -1,0 +1,6 @@
+{
+  "name": "ARES-IV: Interplanetary Martian Survival Map & EVA Simulator",
+  "description": "Interactive 3D Martian EVA survival guide and multi-mission NASA GIS route planner integrating MRO HiRISE, MGS MOLA, Odyssey GRS, MSL RAD, and Perseverance MEDA datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
